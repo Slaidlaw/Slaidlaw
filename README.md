@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Slaidlaw
 - 👀 I’m interested in ... developing applications to make my life easier.
-- 🌱 I’m currently learning ... Python, Java, and SQL.
-- 💞️ I’m looking to collaborate on ... analytics and software development.
+- 🌱 I’m currently learning ... Kotlin
+- 💞️ I’m looking to collaborate on ... game development and Android programs
 - 📫 How to reach me ...message me.
 
 <!---
